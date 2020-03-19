@@ -1,9 +1,9 @@
 # GraphNet_ReconstructStimulusFromBrainAcrtivity
 
-A bunch of codes and simulation for a model that I developed using GraphNet to reconstrut
+A bunch of codes and simulations for a model that I developed using GraphNet to reconstrut
 the stimulus that was presented to observers from brain activity measured with fMRI.
 
-Data is not provided, so only simulation scripts can be used.
+Data is not provided, so only simulation scripts can be used and present.
 
 Details of the model and project can be found in:
 
