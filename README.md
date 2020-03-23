@@ -3,7 +3,7 @@
 A bunch of codes and simulations for a model that I developed using GraphNet to reconstrut
 the stimulus that was presented to observers from brain activity measured with fMRI.
 
-Data is not provided, so only simulation scripts can be used and present.
+Data is not provided, so only simulation scripts can be used.
 
 Details of the model and project can be found in:
 
